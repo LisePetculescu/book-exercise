@@ -19,6 +19,11 @@
 
 // write your function here
 
+async function readWords(file) {
+  //   console.log("hej");
+}
+readWords();
+
 /*
  * Invoke the above function you just made and write in as an argument the specific json-file. Assign it a variable.
  * You will use this specific line of code for each of the following exercises, but comment it out here.
